@@ -1,0 +1,5 @@
+Asset,InitialPrice,Weight,MeanReturn,Volatility
+AAPL,150,0.4,0.08,0.2
+MSFT,320,0.3,0.07,0.18
+TSLA,800,0.2,0.1,0.3
+GOOGL,2800,0.1,0.06,0.15

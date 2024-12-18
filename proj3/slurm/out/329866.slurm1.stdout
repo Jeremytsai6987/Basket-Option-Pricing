@@ -1,0 +1,41 @@
+Running experiments for 100000 simulations...
+Sequential execution failed for 100000 simulations.
+Parallel execution failed for 2 threads and 100000 simulations.
+Parallel execution failed for 4 threads and 100000 simulations.
+Parallel execution failed for 6 threads and 100000 simulations.
+Parallel execution failed for 8 threads and 100000 simulations.
+Parallel execution failed for 12 threads and 100000 simulations.
+Parallel Work-Stealing execution failed for 2 threads and 100000 simulations.
+Parallel Work-Stealing execution failed for 4 threads and 100000 simulations.
+Parallel Work-Stealing execution failed for 6 threads and 100000 simulations.
+Parallel Work-Stealing execution failed for 8 threads and 100000 simulations.
+Parallel Work-Stealing execution failed for 12 threads and 100000 simulations.
+Running experiments for 1000000 simulations...
+Sequential execution failed for 1000000 simulations.
+Parallel execution failed for 2 threads and 1000000 simulations.
+Parallel execution failed for 4 threads and 1000000 simulations.
+Parallel execution failed for 6 threads and 1000000 simulations.
+Parallel execution failed for 8 threads and 1000000 simulations.
+Parallel execution failed for 12 threads and 1000000 simulations.
+Parallel Work-Stealing execution failed for 2 threads and 1000000 simulations.
+Parallel Work-Stealing execution failed for 4 threads and 1000000 simulations.
+Parallel Work-Stealing execution failed for 6 threads and 1000000 simulations.
+Parallel Work-Stealing execution failed for 8 threads and 1000000 simulations.
+Parallel Work-Stealing execution failed for 12 threads and 1000000 simulations.
+Running experiments for 10000000 simulations...
+Sequential execution failed for 10000000 simulations.
+Parallel execution failed for 2 threads and 10000000 simulations.
+Parallel execution failed for 4 threads and 10000000 simulations.
+Parallel execution failed for 6 threads and 10000000 simulations.
+Parallel execution failed for 8 threads and 10000000 simulations.
+Parallel execution failed for 12 threads and 10000000 simulations.
+Parallel Work-Stealing execution failed for 2 threads and 10000000 simulations.
+Parallel Work-Stealing execution failed for 4 threads and 10000000 simulations.
+Parallel Work-Stealing execution failed for 6 threads and 10000000 simulations.
+Parallel Work-Stealing execution failed for 8 threads and 10000000 simulations.
+Parallel Work-Stealing execution failed for 12 threads and 10000000 simulations.
+Sequential time missing for 100000 simulations. Skipping...
+Sequential time missing for 1000000 simulations. Skipping...
+Sequential time missing for 10000000 simulations. Skipping...
+All experiments completed.
+Python script executed successfully. Check the results directory for results and plots.

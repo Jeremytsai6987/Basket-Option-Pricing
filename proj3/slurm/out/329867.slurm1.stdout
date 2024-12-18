@@ -1,0 +1,41 @@
+Running experiments for 100000 simulations...
+Sequential execution completed in 14797.48 ms.
+Parallel execution with 2 threads completed in 4317.75 ms.
+Parallel execution with 4 threads completed in 2526.97 ms.
+Parallel execution with 6 threads completed in 1868.31 ms.
+Parallel execution with 8 threads completed in 1593.02 ms.
+Parallel execution with 12 threads completed in 1362.15 ms.
+Parallel Work-Stealing execution with 2 threads completed in 4239.68 ms.
+Parallel Work-Stealing execution with 4 threads completed in 2412.11 ms.
+Parallel Work-Stealing execution with 6 threads completed in 1911.64 ms.
+Parallel Work-Stealing execution with 8 threads completed in 1626.25 ms.
+Parallel Work-Stealing execution with 12 threads completed in 1383.63 ms.
+Running experiments for 1000000 simulations...
+Sequential execution completed in 84475.11 ms.
+Parallel execution with 2 threads completed in 33375.77 ms.
+Parallel execution with 4 threads completed in 17091.56 ms.
+Parallel execution with 6 threads completed in 11740.69 ms.
+Parallel execution with 8 threads completed in 9700.70 ms.
+Parallel execution with 12 threads completed in 6670.52 ms.
+Parallel Work-Stealing execution with 2 threads completed in 33345.46 ms.
+Parallel Work-Stealing execution with 4 threads completed in 17137.83 ms.
+Parallel Work-Stealing execution with 6 threads completed in 12462.80 ms.
+Parallel Work-Stealing execution with 8 threads completed in 9340.20 ms.
+Parallel Work-Stealing execution with 12 threads completed in 6594.95 ms.
+Running experiments for 10000000 simulations...
+Sequential execution completed in 848123.63 ms.
+Parallel execution with 2 threads completed in 325430.63 ms.
+Parallel execution with 4 threads completed in 166785.62 ms.
+Parallel execution with 6 threads completed in 113067.55 ms.
+Parallel execution with 8 threads completed in 86013.11 ms.
+Parallel execution with 12 threads completed in 60719.56 ms.
+Parallel Work-Stealing execution with 2 threads completed in 325058.04 ms.
+Parallel Work-Stealing execution with 4 threads completed in 166709.19 ms.
+Parallel Work-Stealing execution with 6 threads completed in 114165.44 ms.
+Parallel Work-Stealing execution with 8 threads completed in 110348.60 ms.
+Parallel Work-Stealing execution with 12 threads completed in 66345.66 ms.
+Speedup plot saved for 100000 simulations.
+Speedup plot saved for 1000000 simulations.
+Speedup plot saved for 10000000 simulations.
+All experiments completed.
+Python script executed successfully. Check the results directory for results and plots.

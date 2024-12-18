@@ -1,0 +1,4 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(generate_time_plots.py:1234323): Gdk-CRITICAL **: 16:57:04.406: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed

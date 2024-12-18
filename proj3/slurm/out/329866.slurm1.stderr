@@ -1,0 +1,5 @@
+ERROR: Unable to locate a modulefile for 'python/3.9'
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(generate_time_plots.py:1233758): Gdk-CRITICAL **: 16:53:18.484: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
